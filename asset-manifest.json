@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ninja_reading_list/static/css/main.c78f7474.chunk.css",
+    "main.js": "/ninja_reading_list/static/js/main.af4ad916.chunk.js",
+    "main.js.map": "/ninja_reading_list/static/js/main.af4ad916.chunk.js.map",
+    "runtime-main.js": "/ninja_reading_list/static/js/runtime-main.74313ea0.js",
+    "runtime-main.js.map": "/ninja_reading_list/static/js/runtime-main.74313ea0.js.map",
+    "static/js/2.4d83187b.chunk.js": "/ninja_reading_list/static/js/2.4d83187b.chunk.js",
+    "static/js/2.4d83187b.chunk.js.map": "/ninja_reading_list/static/js/2.4d83187b.chunk.js.map",
+    "index.html": "/ninja_reading_list/index.html",
+    "precache-manifest.d5c44d19199fc804f6f8107220703232.js": "/ninja_reading_list/precache-manifest.d5c44d19199fc804f6f8107220703232.js",
+    "service-worker.js": "/ninja_reading_list/service-worker.js",
+    "static/css/main.c78f7474.chunk.css.map": "/ninja_reading_list/static/css/main.c78f7474.chunk.css.map",
+    "static/js/2.4d83187b.chunk.js.LICENSE.txt": "/ninja_reading_list/static/js/2.4d83187b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74313ea0.js",
+    "static/js/2.4d83187b.chunk.js",
+    "static/css/main.c78f7474.chunk.css",
+    "static/js/main.af4ad916.chunk.js"
+  ]
+}
